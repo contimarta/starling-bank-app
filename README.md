@@ -1,6 +1,6 @@
-# My Starling Bank Tech Challenge
+# My Starling Bank App
 
-In this project, I have built a React App that provides a new feature to Starling Bank customers: it allows them to add round up money from the last 7 days spending to one of their Savings Goals. 
+In this project, I have built a React App that provides some features to Starling Bank customers: it allows them to view their statement, to create a new savings goal, and to add round up money from the last 7 days spending to one of their Savings Goals. 
 
 The main page shows the customer's latest 15 transactions and the amount of money they have available to transfer to one of the Savings Goals. If they want to transfer it, the customer needs to click the "Savings Goals" button to be redirected to their savings page. 
 
