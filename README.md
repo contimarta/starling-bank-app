@@ -19,7 +19,7 @@ Assumptions and considerations:
 
 - When a customer transfers the round up money, the round up available becomes 0. However, if they then refresh the app, the round up amount goes back to its previous value. I would need the backend to keep track of whether the customer has transferred the round up money, so that after a refresh it still displayed 0 if no new transactions have been made.
 
-- The app is not tested. Unfortunately, I have not had time to test the app or the server. If I had more time, I would have tested the React app with jest and react testing library, and I would have tested the server with mocha chai. Therefore, this app is not ready for production.
+- The app is not YET tested. This is an ongoing project, and I have not had time to test the app or the server. The plan is to test the React app with jest and react testing library, and test the server with mocha chai.
 
 
 ## How to run the app
