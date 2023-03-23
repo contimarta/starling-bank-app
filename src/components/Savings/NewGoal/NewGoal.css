@@ -1,0 +1,21 @@
+
+.newGoalForm {
+    margin-bottom: 20px;
+  }
+
+
+  
+  .newGoalForm label {
+    display: inline-grid;
+    margin-bottom: 1rem;
+  }
+  
+  .newGoalForm input {
+
+    width: 5rem;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri
+
+  }

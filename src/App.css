@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+ 
+}
+
+.container{
+  width:750px;
+  max-width:100%;
+  margin:auto;
+  padding: 4rem;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 0.5rem;
+  margin:1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #192852;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+  background-color: #6936d4;
+}

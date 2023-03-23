@@ -1,0 +1,20 @@
+.header {
+    background-color: #1d2444;
+    padding: 0rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.header h1{
+    margin: 0;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    text-align: right;
+    color: #fff;
+}
+
+img{
+    max-width: 10rem;
+}
