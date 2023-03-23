@@ -1,0 +1,12 @@
+.header {
+    background-color: #052962;
+    padding: 1rem;
+    border-top: 2rem solid #041f4a;   
+}
+
+.header h1{
+    margin: 0;
+    padding-right: 3rem;
+    text-align: right;
+    color: #fff;
+}
