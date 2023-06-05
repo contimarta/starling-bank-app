@@ -1,5 +1,26 @@
 # My Starling Bank App
 
+## App Screenshots:
+
+1. Bank statement and savings goal button:
+
+<img width="769" alt="Screenshot 2023-06-05 at 12 21 55" src="https://github.com/contimarta/starling-bank-app/assets/120254646/12383432-4374-419c-ba8a-04b60833e5e2">
+
+
+2. Savings goals list and add new savings goal
+
+<img width="783" alt="Screenshot 2023-06-05 at 12 30 06" src="https://github.com/contimarta/starling-bank-app/assets/120254646/2a3cc5da-fa19-4b8a-a96c-bd81934d8b75">
+
+<img width="267" alt="Screenshot 2023-06-05 at 12 30 26" src="https://github.com/contimarta/starling-bank-app/assets/120254646/2c458567-a503-4ff5-85d2-4aa53d066035">
+
+
+3. Add money to the selected savings goal 
+
+<img width="528" alt="Screenshot 2023-06-05 at 12 31 00" src="https://github.com/contimarta/starling-bank-app/assets/120254646/f94ca6e7-999d-4bb0-8e41-6a5722599f8d">
+
+
+## Summary of the project
+
 In this project, I have built a React App that provides some features to Starling Bank customers: it allows them to view their statement, to create a new savings goal, and to add round up money from the last 7 days spending to one of their Savings Goals. 
 
 The main page shows the customer's latest 15 transactions and the amount of money they have available to transfer to one of the Savings Goals. If they want to transfer it, the customer needs to click the "Savings Goals" button to be redirected to their savings page. 
