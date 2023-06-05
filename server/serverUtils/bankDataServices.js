@@ -32,7 +32,7 @@ class BankDataServices{
  getAccountStatementAsync = async (accountUid) => {
 
     try{
-        const urlStatement = `https://api-sandbox.starlingbank.com/api/v2/accounts/${accountUid}/statement/download?yearMonth=2023-03`;
+        const urlStatement = `https://api-sandbox.starlingbank.com/api/v2/accounts/${accountUid}/statement/downloadForDateRange?start=2023-02-25`;
         const statement= await axios.get(urlStatement, this.configCSV)
         return statementFormatting(statement);
     } catch (e) {
